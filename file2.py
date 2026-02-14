@@ -1,0 +1,1 @@
+# Content of file2.py from codex/create-python-app-for-animated-bar-graphs-5j336r branch
