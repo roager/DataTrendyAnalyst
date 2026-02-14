@@ -1,0 +1,201 @@
+year,country,arrivals_millions
+1980,United States,22.0
+1985,United States,25.7
+1990,United States,30.1
+1995,United States,35.2
+2000,United States,41.2
+2005,United States,48.2
+2010,United States,56.4
+2015,United States,66.0
+2020,United States,31.7
+2025,United States,42.8
+1980,France,30.1
+1985,France,34.6
+1990,France,39.8
+1995,France,45.8
+2000,France,52.6
+2005,France,60.5
+2010,France,69.6
+2015,France,80.1
+2020,France,38.4
+2025,France,51.9
+1980,Spain,23.4
+1985,Spain,27.1
+1990,Spain,31.5
+1995,Spain,36.5
+2000,Spain,42.4
+2005,Spain,49.1
+2010,Spain,57.0
+2015,Spain,66.1
+2020,Spain,31.7
+2025,Spain,42.9
+1980,China,10.4
+1985,China,13.3
+1990,China,17.0
+1995,China,21.8
+2000,China,27.9
+2005,China,35.7
+2010,China,45.7
+2015,China,58.5
+2020,China,28.1
+2025,China,37.9
+1980,Italy,18.5
+1985,Italy,21.1
+1990,Italy,24.0
+1995,Italy,27.4
+2000,Italy,31.2
+2005,Italy,35.6
+2010,Italy,40.6
+2015,Italy,46.3
+2020,Italy,22.2
+2025,Italy,30.0
+1980,Turkey,1.3
+1985,Turkey,1.9
+1990,Turkey,2.7
+1995,Turkey,4.0
+2000,Turkey,5.7
+2005,Turkey,8.3
+2010,Turkey,12.1
+2015,Turkey,17.5
+2020,Turkey,8.4
+2025,Turkey,11.4
+1980,Mexico,12.1
+1985,Mexico,14.3
+1990,Mexico,16.8
+1995,Mexico,19.9
+2000,Mexico,23.5
+2005,Mexico,27.7
+2010,Mexico,32.7
+2015,Mexico,38.5
+2020,Mexico,18.5
+2025,Mexico,25.0
+1980,Thailand,1.8
+1985,Thailand,2.4
+1990,Thailand,3.2
+1995,Thailand,4.3
+2000,Thailand,5.8
+2005,Thailand,7.8
+2010,Thailand,10.4
+2015,Thailand,14.0
+2020,Thailand,6.7
+2025,Thailand,9.0
+1980,Germany,10.8
+1985,Germany,12.4
+1990,Germany,14.3
+1995,Germany,16.4
+2000,Germany,18.9
+2005,Germany,21.7
+2010,Germany,25.0
+2015,Germany,28.7
+2020,Germany,13.8
+2025,Germany,18.6
+1980,United Kingdom,11.9
+1985,United Kingdom,13.6
+1990,United Kingdom,15.5
+1995,United Kingdom,17.6
+2000,United Kingdom,20.1
+2005,United Kingdom,22.9
+2010,United Kingdom,26.1
+2015,United Kingdom,29.8
+2020,United Kingdom,14.3
+2025,United Kingdom,19.3
+1980,Japan,3.5
+1985,Japan,4.1
+1990,Japan,4.7
+1995,Japan,5.5
+2000,Japan,6.3
+2005,Japan,7.4
+2010,Japan,8.5
+2015,Japan,9.9
+2020,Japan,4.7
+2025,Japan,6.4
+1980,Greece,5.2
+1985,Greece,6.1
+1990,Greece,7.1
+1995,Greece,8.3
+2000,Greece,9.7
+2005,Greece,11.4
+2010,Greece,13.3
+2015,Greece,15.6
+2020,Greece,7.5
+2025,Greece,10.1
+1980,Austria,9.1
+1985,Austria,10.3
+1990,Austria,11.6
+1995,Austria,13.1
+2000,Austria,14.8
+2005,Austria,16.8
+2010,Austria,18.9
+2015,Austria,21.4
+2020,Austria,10.3
+2025,Austria,13.9
+1980,Malaysia,2.1
+1985,Malaysia,2.8
+1990,Malaysia,3.7
+1995,Malaysia,4.9
+2000,Malaysia,6.6
+2005,Malaysia,8.7
+2010,Malaysia,11.6
+2015,Malaysia,15.5
+2020,Malaysia,7.4
+2025,Malaysia,10.0
+1980,Portugal,4.7
+1985,Portugal,5.5
+1990,Portugal,6.3
+1995,Portugal,7.3
+2000,Portugal,8.5
+2005,Portugal,9.9
+2010,Portugal,11.5
+2015,Portugal,13.3
+2020,Portugal,6.4
+2025,Portugal,8.6
+1980,Russia,3.2
+1985,Russia,3.8
+1990,Russia,4.5
+1995,Russia,5.3
+2000,Russia,6.2
+2005,Russia,7.3
+2010,Russia,8.6
+2015,Russia,10.2
+2020,Russia,4.9
+2025,Russia,6.6
+1980,Canada,14.0
+1985,Canada,15.4
+1990,Canada,16.9
+1995,Canada,18.6
+2000,Canada,20.5
+2005,Canada,22.5
+2010,Canada,24.8
+2015,Canada,27.3
+2020,Canada,13.1
+2025,Canada,17.7
+1980,Vietnam,0.3
+1985,Vietnam,0.5
+1990,Vietnam,0.8
+1995,Vietnam,1.3
+2000,Vietnam,2.2
+2005,Vietnam,3.7
+2010,Vietnam,6.1
+2015,Vietnam,10.0
+2020,Vietnam,4.8
+2025,Vietnam,6.5
+1980,Netherlands,6.0
+1985,Netherlands,6.8
+1990,Netherlands,7.8
+1995,Netherlands,8.9
+2000,Netherlands,10.1
+2005,Netherlands,11.6
+2010,Netherlands,13.2
+2015,Netherlands,15.0
+2020,Netherlands,7.2
+2025,Netherlands,9.7
+1980,Saudi Arabia,2.0
+1985,Saudi Arabia,2.4
+1990,Saudi Arabia,3.0
+1995,Saudi Arabia,3.6
+2000,Saudi Arabia,4.4
+2005,Saudi Arabia,5.4
+2010,Saudi Arabia,6.6
+2015,Saudi Arabia,8.0
+2020,Saudi Arabia,3.9
+2025,Saudi Arabia,5.2
