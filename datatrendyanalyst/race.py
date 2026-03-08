@@ -8,7 +8,7 @@ import pandas as pd
 import numpy as np
 import urllib.request
 from matplotlib.offsetbox import OffsetImage, AnnotationBbox
-from matplotlib.animation import FuncAnimation, PillowWriter
+from matplotlib.animation import FuncAnimation, PillowWriter, FFMpegWriter
 
 
 FLAG_BY_COUNTRY: dict[str, str] = {
@@ -216,8 +216,13 @@ def create_bar_race(
         writer = PillowWriter(fps=config.fps)
         anim.save(output_path, writer=writer)
     else:
-        # Let matplotlib choose default writer (commonly ffmpeg for mp4)
-        anim.save(output_path, fps=config.fps)
+        # Ensure highest compatibility with standard media players
+        writer = FFMpegWriter(
+            fps=config.fps,
+            metadata=dict(title=config.title),
+            extra_args=["-vcodec", "libx264", "-pix_fmt", "yuv420p"]
+        )
+        anim.save(output_path, writer=writer)
 
     plt.close(fig)
     return output_path
