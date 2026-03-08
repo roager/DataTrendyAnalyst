@@ -20,8 +20,8 @@ def build_parser() -> argparse.ArgumentParser:
     )
     parser.add_argument("--output", default="outputs/bar_race.mp4", help="Output GIF/MP4 path")
     parser.add_argument("--top-n", type=int, default=20, help="Top N categories per frame")
-    parser.add_argument("--fps", type=int, default=8, help="Frames per second")
-    parser.add_argument("--steps-per-period", type=int, default=48, help="Number of interpolation steps between time periods")
+    parser.add_argument("--fps", type=int, default=24, help="Frames per second")
+    parser.add_argument("--steps-per-period", type=int, default=10, help="Number of interpolation steps between time periods")
     return parser
 
 

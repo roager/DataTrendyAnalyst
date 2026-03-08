@@ -68,7 +68,7 @@ class RaceConfig:
     fps: int = 8
     fig_width: int = 13
     fig_height: int = 8
-    steps_per_period: int = 48
+    steps_per_period: int = 10
 
 
 def interpolate_data(
@@ -117,7 +117,7 @@ def load_and_prepare_data(
     time_col: str,
     category_col: str,
     value_col: str,
-    steps_per_period: int = 48,
+    steps_per_period: int = 10,
 ) -> pd.DataFrame:
     """Load CSV and validate required columns."""
     df = pd.read_csv(input_path)

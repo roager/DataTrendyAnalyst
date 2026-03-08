@@ -30,7 +30,8 @@ python app.py \
   --header "Top 20 countries by inbound tourism arrivals (millions)" \
   --output outputs/world_tourism.mp4 \
   --top-n 20 \
-  --steps-per-period 48
+  --steps-per-period 10 \
+  --fps 24
 ```
 
 ## Expected CSV format
